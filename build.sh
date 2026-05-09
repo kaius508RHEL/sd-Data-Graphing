@@ -1,2 +1,2 @@
 mvn clean package
-cp target/sdDataGraph-current.jar sdDataGraph-current.jar
+cp target/sdDataGraph-1.0-SNAPSHOT.jar sdDataGraph-current.jar

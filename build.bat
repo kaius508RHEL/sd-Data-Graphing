@@ -1,3 +1,3 @@
 mvn clean package
-copy target\sdDataGraph-current.jar sdDataGraph-current.jar
+copy target\sdDataGraph-1.0-SNAPSHOT.jar sdDataGraph-current.jar
 
