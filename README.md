@@ -1,6 +1,11 @@
 # sd-Data-Graphing
 Graphing program for visualizing collected SUBC sensor data in JSON format.\
-Utilises JFreeChart library for graph rendering. 
+Utilises JFreeChart library for graph rendering.
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/kaius508RHEL/sd-Data-Graphing/main/image_1.png" height="400" />
+  <img src="https://raw.githubusercontent.com/kaius508RHEL/sd-Data-Graphing/main/image_2.png" height="400" />
+</p>
 
 # System requirements for build
 - Java 17 or higher
