@@ -1,5 +1,6 @@
 # sd-Data-Graphing
-Graphing program for visualizing collected sensor data in JSON format.
+Graphing program for visualizing collected SUBC sensor data in JSON format.\
+Utilises JFreeChart library for graph rendering. 
 
 # System requirements for build
 - Java 17 or higher
