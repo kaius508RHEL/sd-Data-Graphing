@@ -9,11 +9,15 @@ Utilises JFreeChart library for graph rendering.
 - Maven 4 (for manual program build)
 - Windows, macOS, Linux
 ## How-to build:
-- Download repo (zip or clone) (https://github.com/UBC-SUBC/sd-Data-Graphing.git)
+- download repo (zip or clone) (https://github.com/UBC-SUBC/sd-Data-Graphing.git)
 - extract and ``cd`` to folder
 - run ``./build.sh`` (macOS/Linux) or ``build.bat`` (Windows)
 
   NOTE: Execute  ``chmod +x ./build.sh`` if ``build.sh`` does not run.
+
+## How-to run (without installer):
+  - build first (see above)
+  - in program root folder, run `java -jar sdDataGraph-current.jar`
 
 # System requirements for installer
 - Java 17 or higher
